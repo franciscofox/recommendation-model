@@ -17,4 +17,4 @@ Developed simple, robust classification models to predict next purchases.
 Ensured models were resistant to overfitting and optimized for real-world customer data.
 
 ### Integration:
-Seamlessly integrated the predictive model into the BEES app for real-time recommendations.
+Seamlessly integrated the predictive model into the app for real-time recommendations.
