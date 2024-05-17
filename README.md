@@ -1,4 +1,4 @@
-# Predictive Product Recommendation Model for BEES App
+# Predictive Product Recommendation Model for Mobile App
 Project Overview
 A leading brewery aims to enhance its app by implementing a predictive product recommendation system. This system predicts products that customers are likely to purchase in their next order, based on their past behavior and other relevant features. The goal is to improve user experience and drive sales growth.
 
